@@ -1,0 +1,59 @@
+.h2-class
+{
+font-size :60px;
+text-align : center;
+color : blue;
+text-decoration: underline overline;
+}
+
+
+.image-class {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.h5-class 
+{
+font-size : 45px;
+text-align : center;
+color :mediumvioletred;
+text-decoration: underline;
+}
+
+.table-class{
+color : cornsilk;
+text-align : center;
+margin-left: auto;
+  margin-right: auto;
+font-size : 25px;
+}
+
+.info-class
+{
+text-align : center;
+font-size:35px;
+}
+
+.t-class
+{
+color : darkcyan;
+margin-left: auto;
+  margin-right: auto;
+border: 1px solid black;
+}
+
+.tr-class{
+font-size:22px;
+color:indigo;
+border: 1px solid black;
+}
+
+.tr1-class{
+font-size:22px;
+color: purple;
+}
+
+
+
